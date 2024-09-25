@@ -5,7 +5,11 @@ export default {
         "./resources/**/*.js",
     ],
     theme: {
-        extend: {},
+        extend: {
+            colors: {
+                "black": "#060606"
+            }
+        },
     },
     plugins: [],
 };
