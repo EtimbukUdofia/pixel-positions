@@ -1,4 +1,5 @@
 <x-layout>
+    {{-- heading --}}
     <x-page-heading>Results</x-page-heading>
 
     <div class="space-y-6">
